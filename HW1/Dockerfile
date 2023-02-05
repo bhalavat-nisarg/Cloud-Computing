@@ -2,5 +2,5 @@
 FROM ubuntu:20.04
 RUN apt-get update && apt-get install -y sysbench
 ADD DOCKER.tar.gz .
-RUN chmod -R 777 /DOCKER
-
+COPY SETUP.sh .
+RUN chmod -R 777 /DOCKER && cd /DOCKER && mv *.sh ../

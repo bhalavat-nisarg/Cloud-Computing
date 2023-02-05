@@ -1,0 +1,7 @@
+#!/bin/bash
+bash DOCKER_2000_CPU.sh
+bash DOCKER_20000_CPU.sh
+bash DOCKER_200000_CPU.sh
+bash DOCKER_FILEIO_SEQ.sh
+bash DOCKER_FILEIO_RNDRW.sh
+
