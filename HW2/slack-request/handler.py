@@ -10,7 +10,7 @@ def handle(req):
                 "value": "100",
                 "short": True
             }],
-            "author_name": ,
+            "author_name": "Nisarg Bhalavat",
             "author_icon": "https://avatars.githubusercontent.com/u/31996250",
             "image_url": "https://avatars.githubusercontent.com/u/31996250"
         },
