@@ -155,7 +155,7 @@ rtt min/avg/max/mdev = 8.010/19.579/62.832/12.317 ms
 	
 	b. 
 		Min ping for h1 pings h2 =  1.639 ms
-		Max ping for h1 pings h2 = 16.774 ms
+		Max ping for h1 pings h2 = 13.147 ms
 		
 		Min ping for h1 pings h8 =  8.010 ms
 		Max ping for h1 pings h8 = 62.832 ms
