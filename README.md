@@ -6,6 +6,7 @@ Introduction to cloud computing, cloud architecture and service models, the econ
 ## Contents
 1. HW1 - System vs OS Virtualization
 2. HW2 - OpenFaaS - Own Serverless Infrastructure
+3. HW3 - Mininet and POX for Network Simulation
 
 ---
 Winter Quarter 2023 <br>

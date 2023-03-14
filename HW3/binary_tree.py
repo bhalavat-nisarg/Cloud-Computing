@@ -38,7 +38,7 @@ class BinaryTreeTopo( Topo ):
 		self.addLink(s4, h3)
 		self.addLink(s4, h4)
 		self.addLink(s5, s6)
-		self.addLink(s5, h7)
+		self.addLink(s5, s7)
 		self.addLink(s6, h5)
 		self.addLink(s6, h6)
 		self.addLink(s7, h7)
